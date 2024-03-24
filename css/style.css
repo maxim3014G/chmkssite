@@ -1,0 +1,70 @@
+
+body {
+    background-color: #f0f0f0;
+}
+
+h1 {
+    font-size: 32px;
+    padding: 7px;
+    text-indent: 15px;    
+}    
+
+
+
+
+
+.wrapper{
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto; 
+    background-color: #ffffff;
+    box-shadow: 0 0 4px black;
+
+}
+
+a {
+    text-decoration: none;
+}   
+
+.out-nav {
+
+}
+
+.itd-nav {
+    width: 75%;
+    margin: 0 auto;
+
+    
+}
+
+.nav-text {
+    font-size: 20px; 
+    font-family: "Play", sans-serif; 
+}
+
+.slider {
+    margin-top: 7px;
+}
+
+.text {
+    text-indent: 15px;
+    padding: 15px;
+    font-size: 17px;
+    text-align: justify;
+}
+
+.img-con {
+    margin: 0 auto; 
+    display: flex; 
+    justify-content: center;
+}
+
+.img-formul {
+    display: flex;
+    margin: 0 auto;
+    scale: 90%;
+}
+
+.bg-color {
+    background-color: rgba(0, 0, 0, 0.05);
+}
